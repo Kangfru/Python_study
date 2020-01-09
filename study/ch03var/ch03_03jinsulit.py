@@ -23,8 +23,10 @@ a, b = 10, 20
 print(a ** b)
 
 b = 3
+# 소수점이 생기면 float 형식이 된다.
 print(a / b)
 print(a % b)
+# 소수점이 생기면버린다. -> int 형식의 데이터가 된다.
 print(a // b)
 
 a = True
