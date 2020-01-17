@@ -1,0 +1,5 @@
+import ch09function_module.ch09_03_1module
+
+ch09function_module.ch09_03_1module.function1()
+ch09function_module.ch09_03_1module.function2()
+ch09function_module.ch09_03_1module.function3()
