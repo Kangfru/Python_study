@@ -15,3 +15,6 @@ body = soup.find(id="body")
 
 print("#title = " + title.string)
 print("#body = " + body.string)
+
+print("#%s = %s" % (title["id"], title.string))
+print("#%s = %s" % (body["id"], body.string))
