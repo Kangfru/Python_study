@@ -16,6 +16,7 @@ if os.path.exists(in_fn):
     # open(연결 파일명, 모드[r/w/+ 등])
     in_fp = open(in_fn, 'r')
     while True:
+        # in_fp.read() 파일 전체를 읽기
         in_str = in_fp.readline()
         if not in_str:
             break
