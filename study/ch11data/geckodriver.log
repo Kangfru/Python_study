@@ -1,0 +1,24 @@
+1579749923712	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\hong\\AppData\\Local\\Temp\\rust_mozprofile7zHEl6"
+*** You are running in headless mode.
+1579749925325	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1579749925435	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1579749925435	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1579749925435	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1579749925435	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1579749927128	Marionette	INFO	Listening on port 63777
+1579749928210	Marionette	WARN	TLS certificate errors will be ignored for this session
+1579749929581	Marionette	INFO	Stopped listening on port 63777
+[Child 540, MediaDecoderStateMachine #1] WARNING: 10dcb7b0 Can't get cubeb context!: file z:/task_1579290903/build/src/dom/media/AudioStream.cpp, line 285
+[Child 540, MediaDecoderStateMachine #1] WARNING: Decoder=10dbe5c0 [OnMediaSinkAudioError]: file z:/task_1579290903/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3689
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 680: TypeError: this.tablesData[table] is undefined
+1579750025280	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\hong\\AppData\\Local\\Temp\\rust_mozprofileCP1mKD"
+*** You are running in headless mode.
+1579750025786	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1579750025886	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1579750025886	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1579750025886	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1579750025886	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1579750027620	Marionette	INFO	Listening on port 63840
+1579750028616	Marionette	WARN	TLS certificate errors will be ignored for this session
